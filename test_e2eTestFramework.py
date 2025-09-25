@@ -32,6 +32,9 @@ def test_e2e(browserInstance, test_list_item):
     checkout_confirmation.validate_order()
     print(checkout_confirmation.getTitle())
 
+    print("1")
+
+
 
 
 
